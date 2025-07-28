@@ -51,7 +51,7 @@ A PyTorch-based framework for multimodal representation learning and sentiment p
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/multimodal-sentiment-pipeline.git
+   git clone https://github.com/iammuhammad41/multimodal-sentiment-pipeline.git
    cd multimodal-sentiment-pipeline
    ```
 
@@ -93,7 +93,6 @@ A PyTorch-based framework for multimodal representation learning and sentiment p
    * Encode text/audio/video features
    * Predict sentiment labels
    * Compute reconstruction losses and feature similarities
-
 
 
 ## Module Details
